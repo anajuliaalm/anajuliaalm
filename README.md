@@ -5,8 +5,11 @@ Atualmente curso Informática no IFCE campus Maranguape. Tenho conhecimento em P
 Aqui você vai encontrar alguns dos meus projetos e experimentos, espero ajudar, qualquer coisa estamos aí!
 
 -🪴 Gosto de plantas, talvez eu seja uma jovem senhora.
+
 -🥋 Sou "atleta" de jiu-jitsu e amo musculação.
--📖 Gosto de livros de romance. 
+
+-📖 Gosto de livros de romance.
+
 - Amo ficar sozinha e não atendo ligações ;)
   
 
