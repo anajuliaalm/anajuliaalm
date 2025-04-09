@@ -11,5 +11,7 @@ Aqui você vai encontrar alguns dos meus projetos e experimentos, espero ajudar,
 -📖 Gosto de livros de romance.
 
 -🙂Amo ficar sozinha e não atendo ligações ;)
+
+- 🎶 Sou bem eclética em relação a músicas, mas gosto de CBJr e matuê.
   
 
