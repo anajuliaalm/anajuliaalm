@@ -10,7 +10,7 @@ Aqui você vai encontrar alguns dos meus projetos e experimentos, espero ajudar,
 
 -📖 Gosto de livros de romance e minha autora favorita dos mesmos é Coller Hoover.
 
--🙂Amo ficar sozinha e não atendo ligações rs.
+-🙂 Tenho pavor de  ligações (então pfvr não me ligue  rsrs)
 
 -🎶 Curto CBJr, matuê e MPB. 
 
