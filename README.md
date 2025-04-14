@@ -17,3 +17,5 @@ Aqui você vai encontrar alguns dos meus projetos e experimentos, espero ajudar,
 -❤️Amo ter tempos de qualidade com minha familia. 
 
 -🍽️ Amo massas, panelada e peixe. 
+
+-🙋🏽‍♀️ Prefiro que me chamem pelo meu sobrenome: "Almeida".
