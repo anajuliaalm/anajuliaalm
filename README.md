@@ -6,12 +6,14 @@ Aqui você vai encontrar alguns dos meus projetos e experimentos, espero ajudar,
 
 -🪴 Gosto de plantas, talvez eu seja uma jovem senhora.
 
--🥋 Sou "atleta" de jiu-jitsu e amo musculação.
+-🥋 Pratico jiu-jitsu, musculação e as vezes dou uma de corredora. 
 
--📖 Gosto de livros de romance.
+-📖 Gosto de livros de romance e minha autora favorita dos mesmos é Coller Hoover.
 
--🙂Amo ficar sozinha e não atendo ligações ;)
+-🙂Amo ficar sozinha e não atendo ligações rs.
 
--🎶 Sou bem eclética em relação a músicas, mas gosto de CBJr e matuê.
-  
+-🎶 Curto CBJr, matuê e MPB. 
 
+-❤️Amo ter tempos de qualidade com minha familia. 
+
+-🍽️ Amo massas, panelada e peixe. 
