@@ -1,8 +1,8 @@
 ## 👩🏽‍💻 Ana Júlia 
 
-Me chamo Ana Júlia, tenho 17 anos e sou natural de Maranguape. 
-Atualmente curso Informática no IFCE campus Maranguape. Tenho conhecimento em Python e estou explorando JAVA, mas o que me anima mesmo é fazer montagens etc. 
-Aqui você vai encontrar alguns dos meus projetos e experimentos, espero ajudar, qualquer coisa estamos aí!
+Me chamo Ana Júlia Almeida, tenho 17 anos e sou natural de Maranguape. 
+Atualmente curso Informática no IFCE. Tenho conhecimento em Python, SQL e estou explorando JAVA.
+Aqui você vai encontrar alguns dos meus projetos, trabalhos e experimentos, espero ajudar, qualquer coisa estamos aí!
 
 -🪴 Gosto de plantas, talvez eu seja uma jovem senhora.
 
@@ -16,6 +16,7 @@ Aqui você vai encontrar alguns dos meus projetos e experimentos, espero ajudar,
 
 -❤️Amo ter tempos de qualidade com minha familia. 
 
--🍽️ Amo massas, panelada e peixe. 
+-🍽️ Amo doces (talvez em outra vida eu fui uma formiga). 
 
 -🙋🏽‍♀️ Prefiro que me chamem pelo meu sobrenome: "Almeida".
+
