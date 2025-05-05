@@ -20,3 +20,6 @@ Aqui você vai encontrar alguns dos meus projetos, trabalhos e experimentos, esp
 
 -🙋🏽‍♀️ Prefiro que me chamem pelo meu sobrenome: "Almeida".
 
+## 🐍 Animação legal:
+
+<img src="https://media.giphy.com/media/25420960/giphy.gif" width="300"/>
