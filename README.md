@@ -20,6 +20,11 @@ Aqui você vai encontrar alguns dos meus projetos, trabalhos e experimentos, esp
 
 -🙋🏽‍♀️ Prefiro que me chamem pelo meu sobrenome: "Almeida".
 
-## 🐍 Animação legal:
+## 🛠️ Tecnologias que uso:
 
-<img src="https://media.giphy.com/media/25420960/giphy.gif" width="300"/>
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+
+---
+
