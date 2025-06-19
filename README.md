@@ -1,24 +1,22 @@
 ## 👩🏽‍💻💫 Ana Júlia 
 
- Oiii, me chamo Ana Júlia Almeida, tenho 17 anos e moro em Amanari, interior de Maranguape. 
+ Oiii, me chamo Ana Júlia Almeida, tenho 17 anos e moro em Amanari, distrito de Maranguape. 
 Atualmente curso Informática no IFCE. 
 Aqui você vai encontrar alguns dos meus projetos, trabalhos e experimentos, espero ajudar, qualquer coisa estamos aí!
 
--🪴 Gosto de plantas. 
+-🪴 Gosto de plantas, rios, cachoeiras, tudo que envolve a natureza. 
 
 -🥋 Pratico jiu-jitsu, musculação e as vezes dou uma de corredora. 
 
--📖 Gosto de livros de romance e minha autora favorita dos mesmos é Coller Hoover.
+-📖 Gosto de ler, principalmente livros de romance. 
 
--🙂 Tenho pavor de  ligações (então pfvr não me ligue rsrs)
-
--🎶 Curto CBJr, mpb, ret e matuê. 
+-🎶 Curto CBJr, MPB, Djonga e Matuê. 
 
 -❤️Amo ter tempos de qualidade com minha familia. 
 
 -🍽️ Amo doces e massas.  
 
--🙋🏽‍♀️ Algumas pessoas me chamam de "Almeida", não me importo. :)
+-🙋🏽‍♀️ Algumas pessoas me chamam pelo meu sobrenome "Almeida", não me importo. :)
 
 ## 🛠️ Tecnologias que uso/usei:
 
