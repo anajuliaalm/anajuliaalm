@@ -12,8 +12,6 @@ Aqui você vai encontrar alguns dos meus projetos, trabalhos e experimentos, esp
 
 -🎶 Curto CBJr, MPB, Djonga e Matuê. 
 
--❤️Amo ter tempos de qualidade com minha familia. 
-
 -🍽️ Amo doces e massas.  
 
 -🙋🏽‍♀️ Algumas pessoas me chamam pelo meu sobrenome "Almeida", não me importo. :)
