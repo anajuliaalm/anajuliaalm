@@ -5,7 +5,7 @@ Sou apaixonada por natureza, amo plantas, rios, cachoeiras. Também adoro tirar 
 Minhas playlists vão de CBJr a Djonga (sou bem eclética). Tenho uma quedinha por doces e massas.
 Ah, e se me chamarem de “Almeida”, tudo bem também :)
 
-## 🛠️ Tecnologias que uso/usei:
+###  🛠️ Tecnologias que uso/usei:
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
