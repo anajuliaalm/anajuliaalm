@@ -1,6 +1,6 @@
 ## 👩🏽‍💻💫 Ana Júlia 
 
- Oiii, me chamo Ana Júlia Almeida, tenho 17 anos e moro em Amanari, distrito de Maranguape. 
+ Oiii, me chamo Ana Júlia Almeida, tenho 18 anos e moro em Amanari, distrito de Maranguape. 
 Atualmente curso Informática no IFCE. 
 Aqui você vai encontrar alguns dos meus projetos, trabalhos e experimentos, espero ajudar, qualquer coisa estamos aí!
 
