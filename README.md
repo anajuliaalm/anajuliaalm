@@ -3,11 +3,11 @@
 
 #### 🌱 Sobre mim
 
-- 💡 Amo aprender coisas novas e ver como a tecnologia transforma o mundo  
-- 📚 Tenho um carinho especial por **livros e histórias**  
-- 📷 Gosto de **fotografar** e guardar lembranças simples do dia a dia  
-- 👩‍💻 Curto a **parte prática da informática**, como montagens e projetos manuais  
-- ❤️ Valorizo muito o **tempo com minha família e meus amigos**  
+- 💡 Amo aprender coisas novas e ver como a tecnologia transforma o mundo. 
+- 📚 Tenho um carinho especial por **livros e histórias**.  
+- 📷 Gosto de **fotografar** e guardar lembranças simples do dia a dia. 
+- 👩‍💻 Curto a **parte prática da informática**, como montagens e projetos manuais.  
+- ❤️ Valorizo muito o **tempo com minha família e meus amigos**.
 
 ###  🛠️ Tecnologias que uso/usei:
 
